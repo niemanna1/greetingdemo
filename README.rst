@@ -1,5 +1,5 @@
-*************
-Greeting Demo
-*************
+******************
+Fancy Project Demo
+******************
 
-This is s imple README file for demo purposes.
+This is a simple README file for demo purposes.
